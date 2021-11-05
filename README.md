@@ -16,7 +16,7 @@ I'm very passionate about creating things, and I found that through code, there 
 
 ---
 
-Check some stats on the pip-boy:
+Check some stats in the pip-boy:
 
 <img align="right" width="33%" src="imgs/vboy.gif"/>
 
