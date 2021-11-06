@@ -11,7 +11,7 @@
 
 ---
 
-Hi, my name is Denny.
+## Hi, my name is Denny.
 
 I'm very passionate about creating things, and I found that through code, there is really no limit to what can be built. This GitHub, or Code Vault, as we call it here, stores my steps into software development.
 
