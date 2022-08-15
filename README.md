@@ -23,4 +23,4 @@ I'm very passionate about creating things, and I found that through code, there 
 
 ### You can reach me through:
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:dennypiza@live.com)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denny-piza-b7877220)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennypiza/)
